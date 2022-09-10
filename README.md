@@ -43,3 +43,5 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
 
 Changes:
 -upped password min to 10
+-added Edit button beside each todo (for visual only)
+-began early stages of adding edit button functionality
