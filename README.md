@@ -41,4 +41,5 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
  
  Have fun testing and improving it! 😎
 
-
+Changes:
+-upped password min to 10
